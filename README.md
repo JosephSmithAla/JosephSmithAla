@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JosephSmithAla
-- 👀 I’m interested in game dev.and Python 
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @JosephAla
+- 👀 I’m interested in game development and machine learning.
+- 🌱 I’m using c++ for game development and python for machine learning.
 - 📫 How to reach me yusufsametala@gmail.com
 
 <!---
